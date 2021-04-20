@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.likeqc.top/posts/4487daf7/</loc>
+    
+    <lastmod>2021-04-20</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.likeqc.top/archives/</loc>
     
     <lastmod>2021-04-20</lastmod>
@@ -388,6 +395,27 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://blog.likeqc.top/tags/Lombok/</loc>
+    <lastmod>2021-04-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.likeqc.top/tags/bug%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2021-04-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://blog.likeqc.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2021-04-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
