@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+Allow: /posts/
+
+Disallow: /about/
+Disallow: /archives/
+Disallow: /categories/
+Disallow: /css/
+Disallow: /Gallery/
+Disallow: /img/
+Disallow: /js/
+Disallow: /link/
+Disallow: /movies/
+Disallow: /music/
+Disallow: /my-img/
+Disallow: /page/
+Disallow: /tags/
+
+Disallow: /contact/
+Disallow: /friends/
+Disallow: /books/
+Disallow: /page/
+Disallow: /fonts/
+Disallow: /libs/
