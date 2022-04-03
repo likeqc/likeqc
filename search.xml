@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>GitBash 设置命令别名</title>
+      <link href="/posts/9ea5c55a/"/>
+      <url>/posts/9ea5c55a/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> /etc/profile.d/</span><br><span class="line">vim aliases.sh</span><br></pre></td></tr></table></figure><p>然后编辑需要的命令别名即可111</p><p><img src="http://img.likeqc.top//2022/2022-04-03-20-25-59-image-20220403202559384.png" alt="GitBash 设置命令别名"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>CentOS 7 安装 Node.js 和 npm</title>
+      <link href="/posts/858e2a37/"/>
+      <url>/posts/858e2a37/</url>
+      
+        <content type="html"><![CDATA[<h3 id="添加NodeSource到yum源"><a href="#添加NodeSource到yum源" class="headerlink" title="添加NodeSource到yum源"></a>添加NodeSource到yum源</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">curl -fsSL https://rpm.nodesource.com/setup_16.x | sudo bash -</span><br></pre></td></tr></table></figure><h3 id="安装Node-js和npm"><a href="#安装Node-js和npm" class="headerlink" title="安装Node.js和npm"></a>安装Node.js和npm</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo yum install nodejs</span><br></pre></td></tr></table></figure><h3 id="验证-打印安装的版本"><a href="#验证-打印安装的版本" class="headerlink" title="验证(打印安装的版本)"></a>验证(打印安装的版本)</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">node --version</span><br><span class="line">npm --version</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Spring Task 定时任务</title>
       <link href="/posts/5e9ba592/"/>
       <url>/posts/5e9ba592/</url>
